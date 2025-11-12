@@ -1,0 +1,4 @@
+locations:
+- code_source:
+    module_name: dlt_project.definitions
+  location_name: dlt_project_definitions
