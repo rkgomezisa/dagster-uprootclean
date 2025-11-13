@@ -4,5 +4,6 @@ attributes:
   loads:
     - source: .loads.source
       pipeline: .loads.pipeline
-      group_name: shiphero
-      description: "Loads orders data with line items"
+      translation:
+        group_name: shiphero
+        description: "Loads orders data with line items"
